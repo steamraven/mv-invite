@@ -1,0 +1,21 @@
+{
+  "name": "mz-invite",
+  "version": "0.0.1",
+  "description": "Wrapper around Mozilla Send to restrict access on an invite basis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "jwa": "^1.1.6",
+    "lzma-native": "^3.0.8",
+    "passport": "^0.4.0",
+    "passport-negotiate": "^0.1.4",
+    "pug": "^2.0.3",
+    "redwire": "^2.2.0"
+  }
+}
